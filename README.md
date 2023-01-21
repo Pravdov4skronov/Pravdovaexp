@@ -9,3 +9,4 @@ Keep away from children
 - membuat kue macan
 - membuat vlog
 -python
+main
