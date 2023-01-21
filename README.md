@@ -4,5 +4,5 @@ Keep away from children
 - membuat forum diskusi
 - belajar java
 - belajar cpp
-- membuat baju
 - membuat kue macan
+- membuat vlog
