@@ -2,7 +2,7 @@
 Keep away from children
 - bikin 2 video tiap minggu
 - membuat forum diskusi
-^ belajar vue
+- diubah 25 mei 2023
 - react
 - belajar java
 - belajar cpp
